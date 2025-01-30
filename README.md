@@ -18,8 +18,3 @@
 - `Services/` – logika biznesowa (zarządzanie użytkownikami, przesyłkami, bezpieczeństwem).  
 - `Interface/` – interfejsy dla elastyczności systemu.  
 - `UI/` – konsolowe menu interakcji z użytkownikiem.  
-
-## 🚀 **Uruchamianie projektu**  
-1. Sklonuj repozytorium:  
-   ```sh
-   git clone https://github.com/your-repository/PostalSystem.git
